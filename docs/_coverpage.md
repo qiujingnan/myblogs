@@ -5,12 +5,11 @@
 
 * 可以不热爱编程但一定要热爱生活
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/qiujingnan)
 [About me](#quick-start)
 [开始阅读](other/login)
 <!-- [join ？](#quick-start) -->
 <!-- 背景图片 -->
 <!-- ![](_media/bg.png) -->
-
 <!-- 背景色 -->
 <!-- ![color](#2f4253) -->
