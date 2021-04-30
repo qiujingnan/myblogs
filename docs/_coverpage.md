@@ -7,8 +7,8 @@
 
 <!-- [GitHub](https://github.com/qiujingnan)
 [About me](#quick-start) -->
-<span id="jump"><a href = './other/login.html'>开始阅读</span>
-<!-- [开始阅读](other/login1) -->
+<!-- <span id="jump"><a href = './other/login.html'>开始阅读</span> -->
+[开始阅读](other/login1)
 <!-- [join ？](#quick-start) -->
 <!-- 背景图片 -->
 <!-- ![](_media/bg.png) -->
